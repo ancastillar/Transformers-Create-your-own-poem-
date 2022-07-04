@@ -39,25 +39,83 @@ For evaluation we implemented the loss function in train and test datasets.
 
 **Model 2:**
 
-CEMENTERIO DE LLEVAR
+MELANCOLÍA
 
 
-El mar tiene tu mar
-y tu fuego es mi fuego
-y tu aire y tus cabellos
-y tu frente son mi mirada
-y tu boca son mis ojos?
+(Las hojas secas
 
-Mas mi corazón y mis riñones
-han afirmado no,
-no eran ya ni mi voz la voz
-y el mar es mi fuego y mi corazón
-y mi cuerpo mi música
-y tu voz mi fuego y tus cabellos
-y tu cabello tu piel
-y tus manos y tu rostro
-y tu cuerpo son tus pies y mi boca
-y tu frente.
+Las hojas secas y mojadas.)
+
+¿Qué hace el musgo en la tierra?
+
+No importa. Tiene un sabor amargo
+
+y un sabor vago.
+
+---------------------------------------------------------------------------------------------
+LUZ  
+
+Las mariposas negras en la tarde
+teman tu cara.
+Las mariposas en la tarde
+teman tu piel.
+
+Las mariposas en la tarde
+teman tu alma.
+
+Las mariposas en la tarde
+teman tu rostro.
+
+Las mariposas en la tarde.
+
+Las flores en la tarde.
+
+Las golondrinas en la mañana.
+Las golondrinas en la tarde.
+Las golondrinas en la mañana.
+
+Las flores en la noche.
+
+Las golondrinas en la noche.
+Los mirlos en la noche.
+
+Las golondrinas en la noche.,
+ya se arreglarán las cosas.
+
+Cuando tú lo dijiste.
+No hay flores en la noche.
+
+Ya están listos tus floreados trinos
+en que se hará cola mi flor.
+
+en el árbol a cuál le mirará el día
+
+----------------------------------------------------------------------------
+MI MUERTE
+
+
+Yo vi pasar una barca
+desde el puerto,
+sobre un puente de barcas.
+Mi madre,
+la de los ojos llorosos,
+se detuvo a mirar la orilla
+de la lluvia.
+Entonces,
+mirando atrás,
+de un bote en bote a proa,
+la barca,
+me dijo:
+¿qué te parece tu barca?
+Vente, mar, mar,
+dejaré que la lleven
+entre sus barcas.
+Si es la barca de los pies llorosos,
+y las esmirriadas gaviotas,
+no me preguntes por qué,
+delante de las gentes,
+no me digas nada.
+
 
 
 ## Conclusions
