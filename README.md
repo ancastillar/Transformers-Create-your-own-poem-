@@ -33,7 +33,7 @@ of English and Spanish poetry.
 
 For evaluation we implemented the loss function in train and test datasets.
 
-**Model 1:**
+### **Model 1:**
 
 **LOVE IS..**
 
@@ -135,7 +135,7 @@ For evaluation we implemented the loss function in train and test datasets.
  
  A brighter heart!
 
-**Model 2:**
+### **Model 2:**
 
 **MELANCOLÍA**
 
