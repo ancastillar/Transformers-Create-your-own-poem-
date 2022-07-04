@@ -20,9 +20,7 @@ researchers used a Project Gutenberg dataset of 3,355 Shakespearean sonnets to t
 In this repository you will find everything you need to reproduce our work
 
 * Eda: You will find the code with exploratory data analysis.
-* 
-* models: You will find all the models made, one for spaninsh poetry and other for Edgar Allan Poe.
-* 
+* models: You will find all the models made, one for spaninsh poetry and other for Edgar Allan Poe. 
 * data: Source of data used
 
 
@@ -55,7 +53,7 @@ The best performing model was Xgboost for both cases, a summary of the metrics o
 [1] Colton, Simon, Jacob Goodwin, and Tony Veale. "Full-FACE Poetry Generation." ICCC.
 2012.
 
-[2] [3] Lau, Jey Han, et al. "Deep-speare: A joint neural model of poetic language, meter and
+[2] Lau, Jey Han, et al. "Deep-speare: A joint neural model of poetic language, meter and
 rhyme." arXiv preprint arXiv:1807.03491 (2018).
 
 
