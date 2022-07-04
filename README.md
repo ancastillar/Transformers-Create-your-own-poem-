@@ -26,11 +26,15 @@ In this repository you will find everything you need to reproduce our work
 
 ## Models and results
 
-To select the model, for each cluster, we trained 4 different binary classification models: SVM, XGB, KNN, NB (each of a different nature). To guarantee the performance of each one we used K-fold in which we partition the data 10 times. In this way we obtain a list of scores from which we can obtain some basic statistics: standard deviation, mean, average; The metrics used for the evaluation in each Fold were: AUC, F1-Score and Acuraccy. To balance the data we used SMOTE-TOMEK which creates an artificial sample according to the nearest neighbors of each point.
+We implemented Finetuning, like methodology. Our first approach to improve the output of GPT-2 is to finetune it with additional training data, which
+will make the model more specialized for poetry generation. To do this, we compiled a collection
+of English and Spanish poetry. 
+### Evaluation method:
 
-The best performing model was Xgboost for both cases, a summary of the metrics obtained is shown below.
+For evaluation we implemented the loss function in train and test datasets.
 
 **Model 1:**
+
 
 
 **Model 2:**
