@@ -39,6 +39,25 @@ For evaluation we implemented the loss function in train and test datasets.
 
 **Model 2:**
 
+CEMENTERIO DE LLEVAR
+
+
+El mar tiene tu mar
+y tu fuego es mi fuego
+y tu aire y tus cabellos
+y tu frente son mi mirada
+y tu boca son mis ojos?
+
+Mas mi corazón y mis riñones
+han afirmado no,
+no eran ya ni mi voz la voz
+y el mar es mi fuego y mi corazón
+y mi cuerpo mi música
+y tu voz mi fuego y tus cabellos
+y tu cabello tu piel
+y tus manos y tu rostro
+y tu cuerpo son tus pies y mi boca
+y tu frente.
 
 
 ## Conclusions
