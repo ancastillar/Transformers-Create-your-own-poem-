@@ -101,6 +101,7 @@ Mi madre,
 la de los ojos llorosos,
 se detuvo a mirar la orilla
 de la lluvia.
+
 Entonces,
 mirando atrás,
 de un bote en bote a proa,
@@ -110,6 +111,7 @@ me dijo:
 Vente, mar, mar,
 dejaré que la lleven
 entre sus barcas.
+
 Si es la barca de los pies llorosos,
 y las esmirriadas gaviotas,
 no me preguntes por qué,
