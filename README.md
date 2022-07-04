@@ -35,11 +35,109 @@ For evaluation we implemented the loss function in train and test datasets.
 
 **Model 1:**
 
+**LOVE IS..**
 
+ Love is the light of the night—
+ 
+ And the shadow of the mountain 
+ 
+ And the mist of the sea 
+ 
+ Is a barrier—
+ 
+ And a barrier that will not be broken 
+ 
+ By the battle-cry 
+ 
+ Of the trumpet-thunder-thunder,
+ 
+ But by the roar of the battle 
+ 
+ Shall be the battle cry of the dead 
+ 
+ And shall be the cry of the living—
+ 
+ And by the roar shall be the roar
+ 
+ Of the battle-
+ 
+ -------------------------------------------------------------------------------------------------------------------------
+ 
+ **HEAVEN IS GOOD..**
+ 
+ Heaven is good,
+ 
+ And the winds are gentle, 
+ 
+ And the skies are clear—
+ 
+ And the stars seem to be smiling—
+ 
+ And there is no need 
+ 
+ To sing the hymns of the hymn-winds, 
+ 
+ Unless, perhaps, you are a poet or a hymn-stringer—
+ 
+ And you will sing the hymn of the sun-ray, 
+ 
+ Of the moon-ray,
+ 
+ Of the stars,
+ 
+ And there will be no need
+ 
+ For you to sing the song of the moon, 
+ 
+ Of the stars, or of the angels, 
+ 
+ With the accompaniment of the bells and the bells of the bells, 
+ 
+ So that you may feel no need.
+ 
+-------------------------------------------------------------------------------------------------------------------
+
+ **I HAVE A DREAM..**
+ 
+ I have a dream—
+ 
+ A dream—that is to be,
+ 
+ A dream that I have never known—
+ 
+ A dream I have not seen before—
+ 
+ I have not dreamed of waking up,
+ 
+ A waking-up-to-life, 
+ 
+ A dreaming-out-of-life—
+ 
+ For I have been dreaming, dreaming,
+ 
+ Of waking up—
+ 
+ And waking up in the morning,
+ 
+ And dreaming of a brighter future—
+ 
+ Of a brighter home—
+ 
+ To a happier home,
+ 
+ To happier skies—
+ 
+ With a brighter heart—
+ 
+ To a happier heart—with a brighter spirit—
+ 
+ With a brighter mind—
+ 
+ A brighter heart!
 
 **Model 2:**
 
-MELANCOLÍA
+**MELANCOLÍA**
 
 
 (Las hojas secas
@@ -53,17 +151,22 @@ No importa. Tiene un sabor amargo
 y un sabor vago.
 
 ---------------------------------------------------------------------------------------------
-LUZ  
+**LUZ**  
 
 Las mariposas negras en la tarde
+
 teman tu cara.
+
 Las mariposas en la tarde
+
 teman tu piel.
 
 Las mariposas en la tarde
+
 teman tu alma.
 
 Las mariposas en la tarde
+
 teman tu rostro.
 
 Las mariposas en la tarde.
@@ -71,51 +174,76 @@ Las mariposas en la tarde.
 Las flores en la tarde.
 
 Las golondrinas en la mañana.
+
 Las golondrinas en la tarde.
+
 Las golondrinas en la mañana.
 
 Las flores en la noche.
 
 Las golondrinas en la noche.
+
 Los mirlos en la noche.
 
-Las golondrinas en la noche.,
+Las golondrinas en la noche,
+
 ya se arreglarán las cosas.
 
 Cuando tú lo dijiste.
+
 No hay flores en la noche.
 
+
 Ya están listos tus floreados trinos
+
 en que se hará cola mi flor.
 
 en el árbol a cuál le mirará el día
 
 ----------------------------------------------------------------------------
-MI MUERTE
+
+**MI MUERTE**
 
 
 Yo vi pasar una barca
+
 desde el puerto,
+
 sobre un puente de barcas.
+
 Mi madre,
+
 la de los ojos llorosos,
+
 se detuvo a mirar la orilla
+
 de la lluvia.
 
 Entonces,
+
 mirando atrás,
+
 de un bote en bote a proa,
+
 la barca,
+
 me dijo:
 ¿qué te parece tu barca?
+
 Vente, mar, mar,
+
 dejaré que la lleven
+
 entre sus barcas.
 
 Si es la barca de los pies llorosos,
+
 y las esmirriadas gaviotas,
+
 no me preguntes por qué,
+
 delante de las gentes,
+
 no me digas nada.
 
 
