@@ -249,7 +249,9 @@ no me digas nada.
 
 
 ## Conclusions
- 
+
+Regarding to the stanzas results, our model picked up on a number of Poe’s characteristic punctuations and capitalizations,
+the capitalized nouns, the em dashes. The poem related to the sentence I HAVE a dream evokes a very beautiful image of a better future, of something longed for. Each poem written by our model has images which we can associate with the keyword we pass to the model for the generation of the poem, however this evaluation is subjective. Therefore, for next iterations we would like to evaluate our results more objectively and implement more current versions such as GPT-3.
  
 
 ## Prerequisites
